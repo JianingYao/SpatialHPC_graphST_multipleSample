@@ -1,1 +1,3 @@
-# SpatialHPC_graphST_multipleSample
+#### Multi-sample clustering pipeline using GraphST and Harmony in Spatial HPC project.
+
+
